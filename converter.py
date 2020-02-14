@@ -46,6 +46,5 @@ x q[1];
 h q[2];
 
 # Measures
-measure q[2] -> c[2];
-measure q[1] -> c[1];
-measure q[0] -> c[0];
+measure q[2] -> c[2]; # Cout
+measure q[0] -> c[0]; # P 
